@@ -1,0 +1,488 @@
+Date,Team1,Team2,Result1,Result2
+2017-02-17,Australia,Sri Lanka,0,1
+2017-02-19,Australia,Sri Lanka,0,1
+2017-02-22,Australia,Sri Lanka,1,0
+2016-06-18,Zimbabwe,India,1,0
+2016-06-20,Zimbabwe,India,0,1
+2016-06-22,Zimbabwe,India,0,1
+2017-01-03,New Zealand,Bangladesh,1,0
+2017-01-06,New Zealand,Bangladesh,1,0
+2017-01-08,New Zealand,Bangladesh,1,0
+2017-02-17,New Zealand,South Africa,0,1
+2017-06-21,England,South Africa,1,0
+2017-06-23,England,South Africa,0,1
+2017-06-25,England,South Africa,1,0
+2017-01-26,India,England,0,1
+2017-01-29,India,England,1,0
+2017-02-01,India,England,1,0
+2016-08-27,India,West Indies,0,1
+2016-08-28,India,West Indies,0,0
+2016-09-23,Pakistan,West Indies,1,0
+2016-09-24,Pakistan,West Indies,1,0
+2016-09-27,Pakistan,West Indies,1,0
+2017-03-26,West Indies,Pakistan,0,1
+2017-03-30,West Indies,Pakistan,0,1
+2017-04-04,Sri Lanka,Bangladesh,1,0
+2017-04-06,Sri Lanka,Bangladesh,0,1
+2017-04-01,West Indies,Pakistan,1,0
+2017-04-02,West Indies,Pakistan,0,1
+2017-06-02,West Indies,Afghanistan,1,0
+2017-06-03,West Indies,Afghanistan,1,0
+2017-06-05,West Indies,Afghanistan,1,0
+2017-07-09,West Indies,India,1,0
+2019-02-01,South Africa,Pakistan,1,0
+2019-02-03,South Africa,Pakistan,1,0
+2019-03-19,South Africa,Sri Lanka,0,0
+2019-03-22,South Africa,Sri Lanka,1,0
+2019-03-24,South Africa,Sri Lanka,1,0
+2019-05-05,England,Pakistan,1,0
+2019-03-05,West Indies,England,0,1
+2019-03-08,West Indies,England,0,1
+2019-03-10,West Indies,England,0,1
+2019-02-27,India,Australia,0,1
+2019-10-27,Australia,Sri Lanka,1,0
+2019-10-30,Australia,Sri Lanka,1,0
+2019-11-01,Australia,Sri Lanka,1,0
+2019-11-03,Australia,Pakistan,0,0
+2019-11-05,Australia,Pakistan,1,0
+2019-11-08,Australia,Pakistan,1,0
+2020-02-12,South Africa,England,1,0
+2020-02-14,South Africa,England,0,1
+2020-02-16,South Africa,England,0,1
+2020-02-21,South Africa,Australia,0,1
+2020-02-23,South Africa,Australia,1,0
+2020-02-26,South Africa,Australia,0,1
+2019-09-18,India,South Africa,1,0
+2019-09-22,India,South Africa,0,1
+2019-11-03,India,Bangladesh,0,1
+2019-11-07,India,Bangladesh,1,0
+2019-11-10,India,Bangladesh,1,0
+2019-12-06,India,West Indies,1,0
+2019-12-08,India,West Indies,0,1
+2019-12-11,India,West Indies,1,0
+2019-11-01,New Zealand,England,0,1
+2019-11-03,New Zealand,England,1,0
+2019-11-05,New Zealand,England,1,0
+2019-11-08,New Zealand,England,0,1
+2019-11-10,New Zealand,England,0,0
+2020-01-24,New Zealand,India,0,1
+2020-01-26,New Zealand,India,0,1
+2020-01-29,New Zealand,India,0,0
+2020-01-31,New Zealand,India,0,0
+2020-02-02,New Zealand,India,0,1
+2019-08-03,India,West Indies,1,0
+2019-08-04,India,West Indies,1,0
+2019-08-06,West Indies,India,0,1
+2019-09-01,Sri Lanka,New Zealand,0,1
+2019-09-03,Sri Lanka,New Zealand,0,1
+2019-09-06,Sri Lanka,New Zealand,1,0
+2019-11-14,Afghanistan,West Indies,0,1
+2019-11-16,Afghanistan,West Indies,1,0
+2019-11-17,Afghanistan,West Indies,1,0
+2019-09-13,Bangladesh,Zimbabwe,1,0
+2019-09-14,Afghanistan,Zimbabwe,1,0
+2019-09-15,Bangladesh,Afghanistan,0,1
+2019-09-18,Bangladesh,Zimbabwe,1,0
+2019-09-20,Afghanistan,Zimbabwe,0,1
+2019-09-21,Bangladesh,Afghanistan,1,0
+2019-10-05,Pakistan,Sri Lanka,0,1
+2019-10-07,Pakistan,Sri Lanka,0,1
+2019-10-09,Pakistan,Sri Lanka,0,1
+2020-01-07,India,Sri Lanka,1,0
+2020-01-10,India,Sri Lanka,1,0
+2020-01-24,Pakistan,Bangladesh,1,0
+2020-01-25,Pakistan,Bangladesh,1,0
+2020-03-04,Sri Lanka,West Indies,0,1
+2020-03-06,Sri Lanka,West Indies,0,1
+2005-06-13,England,Australia,1,0
+2005-02-17,New Zealand,Australia,0,1
+2005-10-21,South Africa,New Zealand,0,1
+2006-08-28,England,Pakistan,0,1
+2006-06-15,England,Sri Lanka,0,1
+2006-01-09,Australia,South Africa,1,0
+2006-02-16,New Zealand,West Indies,0,0
+2006-02-24,South Africa,Australia,1,0
+2007-01-09,Australia,England,1,0
+2006-12-22,New Zealand,Sri Lanka,0,1
+2006-12-26,New Zealand,Sri Lanka,1,0
+2006-12-01,South Africa,India,0,1
+2007-06-28,England,West Indies,0,1
+2007-06-29,England,West Indies,1,0
+2007-09-11,South Africa,West Indies,1,0
+2007-09-12,Australia,Zimbabwe,0,1
+2007-09-13,Bangladesh,West Indies,1,0
+2007-09-13,England,Zimbabwe,1,0
+2007-09-14,Australia,England,1,0
+2007-09-14,India,Pakistan,0,0
+2007-09-15,New Zealand,Sri Lanka,0,1
+2007-09-15,South Africa,Bangladesh,1,0
+2007-09-16,India,New Zealand,0,1
+2007-09-16,Australia,Bangladesh,1,0
+2007-09-16,South Africa,England,1,0
+2007-09-17,Pakistan,Sri Lanka,1,0
+2007-09-18,England,New Zealand,0,1
+2007-09-18,Australia,Pakistan,0,1
+2007-09-18,Bangladesh,Sri Lanka,0,1
+2007-09-19,South Africa,New Zealand,1,0
+2007-09-19,England,India,0,1
+2007-09-20,Australia,Sri Lanka,1,0
+2007-09-20,Bangladesh,Pakistan,0,1
+2007-09-20,South Africa,India,0,1
+2007-09-22,New Zealand,Pakistan,0,1
+2007-09-22,Australia,India,0,1
+2007-09-24,India,Pakistan,1,0
+2007-12-11,Australia,New Zealand,1,0
+2008-02-01,Australia,India,1,0
+2008-06-13,England,New Zealand,1,0
+2007-10-20,India,Australia,1,0
+2007-11-23,South Africa,New Zealand,1,0
+2008-01-18,South Africa,West Indies,1,0
+2008-02-05,New Zealand,England,0,1
+2008-02-07,New Zealand,England,0,1
+2007-09-02,Bangladesh,Pakistan,0,1
+2007-12-16,South Africa,West Indies,0,1
+2008-06-20,West Indies,Australia,1,0
+2008-04-20,Pakistan,Bangladesh,1,0
+2009-08-30,England,Australia,0,0
+2008-11-05,South Africa,Bangladesh,1,0
+2009-03-27,South Africa,Australia,1,0
+2009-03-29,South Africa,Australia,1,0
+2009-01-11,Australia,South Africa,1,0
+2009-01-13,Australia,South Africa,1,0
+2009-02-15,Australia,New Zealand,1,0
+2009-03-15,West Indies,England,1,0
+2009-06-06,Australia,West Indies,0,1
+2009-06-06,Bangladesh,India,0,1
+2009-06-07,England,Pakistan,1,0
+2009-06-08,Australia,Sri Lanka,0,1
+2009-06-09,New Zealand,South Africa,0,1
+2009-06-10,Sri Lanka,West Indies,1,0
+2009-06-11,England,South Africa,0,1
+2009-06-12,Pakistan,Sri Lanka,0,1
+2009-06-12,India,West Indies,0,1
+2009-06-13,South Africa,West Indies,1,0
+2009-06-13,New Zealand,Pakistan,0,1
+2009-06-14,England,India,1,0
+2009-06-15,England,West Indies,0,1
+2009-06-16,New Zealand,Sri Lanka,0,1
+2009-06-16,India,South Africa,0,1
+2009-06-18,Pakistan,South Africa,1,0
+2009-06-19,Sri Lanka,West Indies,1,0
+2009-06-21,Pakistan,Sri Lanka,1,0
+2008-10-11,Pakistan,Sri Lanka,1,0
+2008-10-13,Pakistan,Sri Lanka,0,1
+2009-02-27,New Zealand,India,1,0
+2008-12-26,New Zealand,West Indies,0,0
+2008-12-28,New Zealand,West Indies,1,0
+2009-02-25,New Zealand,India,1,0
+2009-02-10,Sri Lanka,India,0,1
+2009-11-13,South Africa,England,0,1
+2009-11-15,South Africa,England,1,0
+2009-05-07,Australia,Pakistan,0,1
+2009-08-02,West Indies,Bangladesh,1,0
+2009-08-12,Sri Lanka,Pakistan,0,1
+2009-09-02,Sri Lanka,New Zealand,0,1
+2009-09-04,Sri Lanka,New Zealand,0,1
+2010-02-21,Australia,West Indies,1,0
+2010-02-23,Australia,West Indies,1,0
+2010-02-05,Australia,Pakistan,1,0
+2010-04-30,New Zealand,Sri Lanka,1,0
+2010-05-01,Afghanistan,India,0,1
+2010-05-01,Bangladesh,Pakistan,0,1
+2010-05-02,India,South Africa,1,0
+2010-05-02,Australia,Pakistan,1,0
+2010-05-04,New Zealand,Zimbabwe,1,0
+2010-05-03,West Indies,England,1,0
+2010-05-03,Sri Lanka,Zimbabwe,1,0
+2010-05-05,Afghanistan,South Africa,0,1
+2010-05-05,Australia,Bangladesh,1,0
+2010-05-06,England,Pakistan,1,0
+2010-05-06,New Zealand,South Africa,0,1
+2010-05-07,Australia,India,1,0
+2010-05-07,West Indies,Sri Lanka,0,1
+2010-05-08,New Zealand,Pakistan,1,0
+2010-05-08,England,South Africa,1,0
+2010-05-09,West Indies,India,1,0
+2010-05-09,Australia,Sri Lanka,1,0
+2010-05-10,Pakistan,South Africa,1,0
+2010-05-10,England,New Zealand,1,0
+2010-05-11,India,Sri Lanka,0,1
+2010-05-11,West Indies,Australia,0,1
+2010-05-13,England,Sri Lanka,1,0
+2010-05-14,Australia,Pakistan,1,0
+2010-05-16,Australia,England,0,1
+2010-02-03,New Zealand,Bangladesh,1,0
+2010-02-26,New Zealand,Australia,0,1
+2010-02-28,New Zealand,Australia,0,0
+2010-07-05,Australia,Pakistan,0,1
+2010-07-06,Australia,Pakistan,0,1
+2010-09-05,England,Pakistan,1,0
+2010-09-07,England,Pakistan,1,0
+2009-11-12,New Zealand,Pakistan,0,1
+2009-11-13,New Zealand,Pakistan,0,1
+2009-12-09,India,Sri Lanka,0,1
+2009-12-12,India,Sri Lanka,1,0
+2010-02-28,West Indies,Zimbabwe,0,1
+2010-05-19,West Indies,South Africa,0,1
+2010-02-19,England,Pakistan,1,0
+2010-02-20,England,Pakistan,0,1
+2010-10-31,Australia,Sri Lanka,0,1
+2011-01-12,Australia,England,0,1
+2011-01-14,Australia,England,1,0
+2010-05-20,West Indies,South Africa,0,1
+2010-06-12,Zimbabwe,India,0,1
+2010-06-13,Zimbabwe,India,0,1
+2010-05-22,New Zealand,Sri Lanka,1,0
+2010-05-23,New Zealand,Sri Lanka,0,1
+2010-10-27,Pakistan,South Africa,0,1
+2010-10-08,South Africa,Zimbabwe,1,0
+2010-10-10,South Africa,Zimbabwe,1,0
+2011-01-09,South Africa,India,0,1
+2010-12-26,New Zealand,Pakistan,1,0
+2010-12-28,New Zealand,Pakistan,1,0
+2010-12-30,New Zealand,Pakistan,0,1
+2011-06-25,England,Sri Lanka,0,1
+2011-08-31,England,India,1,0
+2010-10-26,Pakistan,South Africa,0,1
+2011-04-21,West Indies,Pakistan,1,0
+2011-06-04,West Indies,India,0,1
+2011-10-13,South Africa,Australia,0,1
+2011-10-16,South Africa,Australia,1,0
+2011-08-06,Sri Lanka,Australia,1,0
+2011-08-08,Sri Lanka,Australia,1,0
+2012-02-01,Australia,India,1,0
+2012-02-03,Australia,India,0,1
+2012-02-11,New Zealand,Zimbabwe,1,0
+2012-02-14,New Zealand,Zimbabwe,1,0
+2012-02-17,New Zealand,South Africa,1,0
+2012-02-19,New Zealand,South Africa,0,1
+2012-02-22,New Zealand,South Africa,0,1
+2011-10-29,India,England,0,1
+2011-09-16,Zimbabwe,Pakistan,0,1
+2011-09-18,Zimbabwe,Pakistan,0,1
+2011-09-23,England,West Indies,1,0
+2011-09-25,England,West Indies,0,1
+2011-10-15,Zimbabwe,New Zealand,0,1
+2011-10-17,Zimbabwe,New Zealand,0,1
+2011-11-25,Pakistan,Sri Lanka,1,0
+2012-02-23,England,Pakistan,0,1
+2012-02-25,England,Pakistan,1,0
+2012-02-27,England,Pakistan,1,0
+2011-10-11,Bangladesh,West Indies,1,0
+2012-09-18,Sri Lanka,Zimbabwe,1,0
+2012-09-19,Afghanistan,India,0,1
+2012-09-20,South Africa,Zimbabwe,1,0
+2012-09-21,Bangladesh,New Zealand,0,1
+2012-09-21,Afghanistan,England,0,1
+2012-09-22,Sri Lanka,South Africa,0,1
+2012-09-22,Australia,West Indies,1,0
+2012-09-23,New Zealand,Pakistan,0,1
+2012-09-23,England,India,0,1
+2012-09-25,Bangladesh,Pakistan,0,1
+2012-09-27,Sri Lanka,New Zealand,0,0
+2012-09-27,England,West Indies,0,1
+2012-09-28,Pakistan,South Africa,1,0
+2012-09-28,Australia,India,1,0
+2012-09-29,England,New Zealand,1,0
+2012-09-29,Sri Lanka,West Indies,1,0
+2012-09-30,Australia,South Africa,1,0
+2012-09-30,India,Pakistan,1,0
+2012-10-01,New Zealand,West Indies,0,0
+2012-10-01,Sri Lanka,England,1,0
+2012-10-02,Australia,Pakistan,0,1
+2012-10-02,India,South Africa,1,0
+2012-10-04,Sri Lanka,Pakistan,1,0
+2012-10-05,Australia,West Indies,0,1
+2012-10-07,Sri Lanka,West Indies,0,1
+2012-06-24,England,West Indies,1,0
+2012-09-08,England,South Africa,0,1
+2012-09-10,England,South Africa,0,0
+2012-09-12,England,South Africa,1,0
+2011-11-29,Bangladesh,Pakistan,0,1
+2012-03-27,West Indies,Australia,0,1
+2012-03-30,West Indies,Australia,1,0
+2012-03-30,South Africa,India,1,0
+2012-06-30,New Zealand,West Indies,0,1
+2012-07-01,New Zealand,West Indies,0,1
+2012-06-01,Sri Lanka,Pakistan,1,0
+2012-06-03,Sri Lanka,Pakistan,0,1
+2012-08-07,Sri Lanka,India,0,1
+2012-12-20,India,England,1,0
+2012-12-22,India,England,0,1
+2012-09-11,India,New Zealand,0,1
+2013-06-25,England,New Zealand,0,1
+2013-06-27,England,New Zealand,0,0
+2013-08-29,England,Australia,0,1
+2013-08-31,England,Australia,1,0
+2012-12-21,South Africa,New Zealand,1,0
+2012-12-23,South Africa,New Zealand,0,1
+2012-12-26,South Africa,New Zealand,1,0
+2013-03-03,South Africa,Pakistan,0,1
+2013-02-09,New Zealand,England,0,1
+2013-02-12,New Zealand,England,1,0
+2013-02-15,New Zealand,England,0,1
+2012-09-05,Australia,Pakistan,0,1
+2012-09-07,Australia,Pakistan,0,0
+2012-09-10,Australia,Pakistan,1,0
+2013-01-26,Australia,Sri Lanka,0,1
+2013-01-28,Australia,Sri Lanka,0,1
+2013-02-13,Australia,West Indies,0,1
+2012-10-30,Sri Lanka,New Zealand,0,0
+2012-12-10,Bangladesh,West Indies,0,1
+2012-12-25,India,Pakistan,0,1
+2012-12-28,India,Pakistan,1,0
+2013-03-02,West Indies,Zimbabwe,1,0
+2013-03-03,West Indies,Zimbabwe,1,0
+2013-03-31,Sri Lanka,Bangladesh,1,0
+2013-05-11,Zimbabwe,Bangladesh,1,0
+2013-05-12,Zimbabwe,Bangladesh,0,1
+2013-08-02,Sri Lanka,South Africa,0,1
+2013-08-04,Sri Lanka,South Africa,0,1
+2013-08-06,Sri Lanka,South Africa,1,0
+2014-01-29,Australia,England,1,0
+2014-01-31,Australia,England,1,0
+2014-02-02,Australia,England,1,0
+2014-03-09,West Indies,England,1,0
+2014-03-11,West Indies,England,1,0
+2014-03-13,West Indies,England,0,1
+2013-07-27,West Indies,Pakistan,0,1
+2013-07-28,West Indies,Pakistan,0,1
+2013-10-10,India,Australia,1,0
+2014-03-12,South Africa,Australia,0,1
+2014-03-14,South Africa,Australia,0,1
+2013-11-13,Pakistan,South Africa,0,1
+2013-11-15,Pakistan,South Africa,0,1
+2013-12-08,Afghanistan,Pakistan,0,1
+2013-12-11,Pakistan,Sri Lanka,1,0
+2013-12-13,Pakistan,Sri Lanka,0,1
+2013-08-23,Zimbabwe,Pakistan,0,1
+2013-08-24,Zimbabwe,Pakistan,0,1
+2014-01-11,New Zealand,West Indies,1,0
+2014-01-15,New Zealand,West Indies,1,0
+2014-09-07,England,India,1,0
+2014-05-20,England,Sri Lanka,0,1
+2013-11-06,Bangladesh,New Zealand,0,1
+2013-11-21,Sri Lanka,New Zealand,1,0
+2014-03-16,Bangladesh,Afghanistan,1,0
+2014-03-21,India,Pakistan,1,0
+2014-03-22,South Africa,Sri Lanka,0,1
+2014-03-22,England,New Zealand,0,1
+2014-03-23,Australia,Pakistan,0,1
+2014-03-23,India,West Indies,1,0
+2014-03-24,New Zealand,South Africa,0,1
+2014-03-25,Bangladesh,West Indies,0,1
+2014-03-27,England,Sri Lanka,1,0
+2014-03-28,Australia,West Indies,0,1
+2014-03-28,Bangladesh,India,0,1
+2014-03-29,England,South Africa,0,1
+2014-03-30,Bangladesh,Pakistan,0,1
+2014-03-30,Australia,India,0,1
+2014-03-31,New Zealand,Sri Lanka,0,1
+2014-04-01,Bangladesh,Australia,0,1
+2014-04-01,Pakistan,West Indies,0,1
+2014-04-03,Sri Lanka,West Indies,1,0
+2014-04-04,India,South Africa,1,0
+2014-04-06,India,Sri Lanka,0,1
+2013-11-20,South Africa,Pakistan,1,0
+2013-11-22,South Africa,Pakistan,0,1
+2014-02-12,Bangladesh,Sri Lanka,0,1
+2014-02-14,Bangladesh,Sri Lanka,0,1
+2015-01-09,South Africa,West Indies,0,1
+2015-01-11,South Africa,West Indies,0,1
+2014-10-05,Australia,Pakistan,1,0
+2014-07-05,West Indies,New Zealand,0,1
+2014-07-06,West Indies,New Zealand,1,0
+2014-08-27,West Indies,Bangladesh,0,0
+2015-01-14,South Africa,West Indies,1,0
+2014-12-04,New Zealand,Pakistan,0,1
+2015-06-23,England,New Zealand,1,0
+2015-08-31,England,Australia,1,0
+2014-12-05,New Zealand,Pakistan,1,0
+2014-11-05,Australia,South Africa,0,1
+2014-11-07,Australia,South Africa,1,0
+2014-11-09,Australia,South Africa,1,0
+2016-02-19,South Africa,England,1,0
+2016-02-21,South Africa,England,1,0
+2015-07-05,Bangladesh,South Africa,0,1
+2015-07-07,Bangladesh,South Africa,0,1
+2015-08-14,South Africa,New Zealand,1,0
+2015-08-16,South Africa,New Zealand,0,1
+2015-04-24,Bangladesh,Pakistan,1,0
+2015-07-30,Sri Lanka,Pakistan,0,1
+2015-08-01,Sri Lanka,Pakistan,0,1
+2015-05-22,Pakistan,Zimbabwe,1,0
+2015-05-24,Pakistan,Zimbabwe,1,0
+2016-03-04,South Africa,Australia,1,0
+2016-03-06,South Africa,Australia,0,1
+2016-03-09,South Africa,Australia,0,1
+2015-07-17,Zimbabwe,India,0,1
+2015-07-19,Zimbabwe,India,1,0
+2015-08-09,Zimbabwe,New Zealand,0,1
+2016-01-26,Australia,India,0,1
+2016-01-29,Australia,India,0,1
+2016-01-31,Australia,India,0,1
+2015-11-26,England,Pakistan,1,0
+2015-11-27,England,Pakistan,1,0
+2015-11-30,England,Pakistan,0,0
+2015-10-02,India,South Africa,0,1
+2015-10-05,India,South Africa,0,1
+2016-07-05,England,Sri Lanka,1,0
+2016-09-07,England,Pakistan,0,1
+2016-01-07,New Zealand,Sri Lanka,1,0
+2016-01-10,New Zealand,Sri Lanka,1,0
+2016-01-15,New Zealand,Pakistan,0,1
+2016-01-17,New Zealand,Pakistan,1,0
+2016-01-22,New Zealand,Pakistan,1,0
+2015-11-09,Sri Lanka,West Indies,1,0
+2015-11-11,Sri Lanka,West Indies,0,1
+2015-09-27,Zimbabwe,Pakistan,0,1
+2015-09-29,Zimbabwe,Pakistan,0,1
+2015-10-26,Zimbabwe,Afghanistan,0,1
+2015-10-28,Zimbabwe,Afghanistan,0,1
+2015-11-13,Bangladesh,Zimbabwe,1,0
+2015-11-15,Bangladesh,Zimbabwe,0,1
+2017-01-20,South Africa,Sri Lanka,1,0
+2017-01-22,South Africa,Sri Lanka,0,1
+2017-01-25,South Africa,Sri Lanka,0,1
+2016-03-12,Afghanistan,Zimbabwe,1,0
+2016-03-15,India,New Zealand,0,1
+2016-03-16,England,West Indies,0,1
+2016-03-16,Bangladesh,Pakistan,0,1
+2016-03-17,Afghanistan,Sri Lanka,0,1
+2016-03-18,Australia,New Zealand,0,1
+2016-03-18,England,South Africa,1,0
+2016-03-19,India,Pakistan,1,0
+2016-03-20,Afghanistan,South Africa,0,1
+2016-03-20,Sri Lanka,West Indies,0,1
+2016-03-21,Australia,Bangladesh,1,0
+2016-03-22,New Zealand,Pakistan,1,0
+2016-03-23,Afghanistan,England,0,1
+2016-03-23,India,Bangladesh,1,0
+2016-03-25,Australia,Pakistan,1,0
+2016-03-25,South Africa,West Indies,0,1
+2016-03-26,Bangladesh,New Zealand,0,1
+2016-03-26,England,Sri Lanka,1,0
+2016-03-27,India,Australia,1,0
+2016-03-27,Afghanistan,West Indies,1,0
+2016-03-28,South Africa,Sri Lanka,1,0
+2016-03-30,England,New Zealand,1,0
+2016-03-31,India,West Indies,0,1
+2016-04-03,England,West Indies,0,1
+2016-01-08,Afghanistan,Zimbabwe,1,0
+2016-01-10,Afghanistan,Zimbabwe,1,0
+2016-01-15,Bangladesh,Zimbabwe,1,0
+2016-01-17,Bangladesh,Zimbabwe,1,0
+2016-01-20,Bangladesh,Zimbabwe,0,1
+2016-01-22,Bangladesh,Zimbabwe,0,1
+2016-02-09,India,Sri Lanka,0,1
+2016-02-12,India,Sri Lanka,1,0
+2016-02-14,India,Sri Lanka,1,0
+2016-02-24,Bangladesh,India,0,1
+2016-02-27,India,Pakistan,1,0
+2016-02-28,Bangladesh,Sri Lanka,1,0
+2016-03-01,India,Sri Lanka,1,0
+2016-03-02,Bangladesh,Pakistan,1,0
+2016-03-04,Pakistan,Sri Lanka,1,0
+2016-03-06,Bangladesh,India,0,1
+2016-09-06,Sri Lanka,Australia,0,1
+2016-09-09,Sri Lanka,Australia,0,1
